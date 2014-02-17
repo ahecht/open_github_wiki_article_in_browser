@@ -10,6 +10,14 @@ Use `command+shift+g` or invoke `Open Article on Github` in the Command Pallete 
 
 You'll have to set your username and repo in the settings file. This is the dumb part.
 
+```
+{
+    // github settings (ex: https://github.com/[USER]/[REPO])
+    "github_user":"YOUR_USER_NAME",
+    "github_repo":"YOUR_REPO_NAME"
+}
+```
+
 
 ## License
 
