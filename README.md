@@ -8,7 +8,7 @@ Use `command+shift+g` or invoke `Open Article on Github` in the Command Pallete 
 
 ## Settings
 
-You'll have to set your username and repo in the settings file. This is the dumb part.
+This is the dumb part: You'll have to set your username and repo in a settings file called OpenGithubWikiArticleInBrowser.sublime-settings.
 
 ```
 {
